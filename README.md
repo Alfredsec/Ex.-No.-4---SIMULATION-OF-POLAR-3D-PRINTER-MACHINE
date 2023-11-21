@@ -33,8 +33,8 @@ To simulate the construction of polar 3D printer and to get in-depth knowledge o
 ## Output:
 ![image](https://github.com/Asilsathik/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119476247/4b644c3f-cfe0-4d57-ac1f-2a75e07be6cf)
 
-### Name: Jeyabalan
-### Register Number: 212222240040
+### Name: ALFRED A B
+### Register Number: 212222110002
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
