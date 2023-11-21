@@ -1,6 +1,5 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
-
-
+## DATE : 09.09.2023
 ## AIM:
 To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
 
@@ -37,4 +36,4 @@ To simulate the construction of polar 3D printer and to get in-depth knowledge o
 ### Register Number: 212222110002
 
 ## Result: 
-### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
